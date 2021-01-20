@@ -1,3 +1,7 @@
+# THIS IS THE OLD COURSE WEBSITE
+
+For EEOB/BCB 546, go to the new repository [https://github.com/EEOB-BioData/EEOB-BCB-546](https://github.com/EEOB-BioData/EEOB-BCB-546)
+
 # EEOB/BCB 546X Course Website
 
 This repository hosts the website for the graduate course "Computational Skills for Biological Data". This is a static site built by Jekyll and based on the [Millidocs Theme](https://github.com/alexander-heimbuch/millidocs).
